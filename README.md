@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with This Template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I also setup [TailwindCSS](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/).
 
 ## Available Scripts
 
@@ -44,3 +46,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn more about TailwindCSS, check out the [TailwindCSS documentation](https://tailwindcss.com/docs/installation).
+
+To learn more about DaisyUI, check out the [DaisyUI documentation](https://daisyui.com/docs/use/).
